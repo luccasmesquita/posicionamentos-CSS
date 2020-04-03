@@ -222,7 +222,7 @@ img {
    }
    .preco .preco-item:nth-child(2) {
     order: -1;
-}
+    }
 }
 
 /* Qualidade */
@@ -241,3 +241,9 @@ img {
     color: #a4a4a4;
     margin-bottom: 20px;
 }
+
+
+/* Newsletter */
+
+/* Footer */
+
