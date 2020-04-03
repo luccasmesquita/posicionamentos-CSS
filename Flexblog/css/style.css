@@ -236,3 +236,8 @@ img {
     flex: 1 1 300px;
     margin: 20px 10px;
 }
+.qualidade-item h2 {
+    font-size: 2.5em;
+    color: #a4a4a4;
+    margin-bottom: 20px;
+}
